@@ -5,7 +5,6 @@
 #!homepage=https://github.com/Semporia/TikTok-Unlock
 #!icon= https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png
 
-
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) TH 307
